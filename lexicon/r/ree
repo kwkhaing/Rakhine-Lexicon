@@ -1,0 +1,38 @@
+{
+  "word": "ရီ",
+  "language": "rki",
+  "script": "Mymr",
+  "pos": "noun",
+  "definitions": [
+    {
+      "sense_id": "1",
+      "gloss": "water",
+      "english": "water",
+      "myanmar": "ရေ"
+    }
+  ],
+  "pronunciation": {
+    "ipa": "ree",
+    "romanization": "ree",
+    "variants": []
+  },
+  "examples": [
+    {
+      "sentence": "ရီ ဆူနိန်ဗျာလ်။",
+      "translation": {
+        "english": "The water is boiling.",
+        "myanmar": "ရေ ဆူနေပြီ။"
+      }
+    }
+  ],
+  "semantic_relations": {
+    "synonyms": [],
+    "antonyms": [""],
+    "related": []
+  },
+  "metadata": {
+    "source": "native_speaker",
+    "tags": ["basic"],
+    "updated_at": "2025-12-12"
+  }
+}
