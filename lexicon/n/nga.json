@@ -12,22 +12,22 @@
     }
   ],
   "pronunciation": {
-    "ipa": "ŋa",
-    "romanization": "nga",
+    "ipa": "ŋɑ́",
+    "romanization": "ngar",
     "variants": []
   },
   "examples": [
     {
-      "sentence": "ငါ သီလဝါသၠူ။",
+      "sentence": "ငါ စားနိန်ရေ။",
       "translation": {
         "english": "I am eating.",
-        "myanmar": "ငါစားနေတယ်။"
+        "myanmar": "ငါ စားနေတယ်။"
       }
     }
   ],
   "semantic_relations": {
     "synonyms": [],
-    "antonyms": ["နၞျာ်"],
+    "antonyms": [""],
     "related": []
   },
   "metadata": {
