@@ -1,5 +1,5 @@
 {
-  "word": "အၞာေ",
+  "word": "ရီ",
   "language": "rki",
   "script": "Mymr",
   "pos": "noun",
@@ -12,22 +12,22 @@
     }
   ],
   "pronunciation": {
-    "ipa": "aː.mɛ",
-    "romanization": "amae",
+    "ipa": "ree",
+    "romanization": "ree",
     "variants": []
   },
   "examples": [
     {
-      "sentence": "အၞာေ မအိုးသၠူ။",
+      "sentence": "ရီ ဆူနိန်ဗျာလ်။",
       "translation": {
         "english": "The water is boiling.",
-        "myanmar": "ရေနေပျုပ်တယ်။"
+        "myanmar": "ရေ ဆူနေပြီ။"
       }
     }
   ],
   "semantic_relations": {
     "synonyms": [],
-    "antonyms": ["မၞာ်"],
+    "antonyms": [""],
     "related": []
   },
   "metadata": {
