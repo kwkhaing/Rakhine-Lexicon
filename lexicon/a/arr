@@ -1,0 +1,38 @@
+{
+  "word": "အား",
+  "language": "rki",
+  "script": "Mymr",
+  "pos": "noun",
+  "definitions": [
+    {
+      "sense_id": "1",
+      "gloss": "strength",
+      "english": "strength",
+      "myanmar": "အား"
+    }
+  ],
+  "pronunciation": {
+    "ipa": "ɑːr",
+    "romanization": "arr",
+    "variants": []
+  },
+  "examples": [
+    {
+      "sentence": "ငါ အား ကောင်းရေ။",
+      "translation": {
+        "english": "I am good in strength.",
+        "myanmar": "ငါ အား ကောင်းတယ်။"
+      }
+    }
+  ],
+  "semantic_relations": {
+    "synonyms": [],
+    "antonyms": [""],
+    "related": []
+  },
+  "metadata": {
+    "source": "native_speaker",
+    "tags": ["basic"],
+    "updated_at": "2025-12-12"
+  }
+}
