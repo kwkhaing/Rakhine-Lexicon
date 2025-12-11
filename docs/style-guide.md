@@ -1,0 +1,3 @@
+# Lexicon Style Guide
+
+WIP.
