@@ -1,0 +1,38 @@
+{
+  "word": "အ",
+  "language": "rki",
+  "script": "Mymr",
+  "pos": "vowel",
+  "definitions": [
+    {
+      "sense_id": "1",
+      "gloss": "အ",
+      "english": "a",
+      "myanmar": "အ"
+    }
+  ],
+  "pronunciation": {
+    "ipa": "ɑ",
+    "romanization": "a",
+    "variants": []
+  },
+  "examples": [
+    {
+      "sentence": "အက်ကွဲနိန်ယေ။",
+      "translation": {
+        "english": "It is cracking.",
+        "myanmar": "အက်ကွဲနေတယ်။"
+      }
+    }
+  ],
+  "semantic_relations": {
+    "synonyms": [],
+    "antonyms": [""],
+    "related": []
+  },
+  "metadata": {
+    "source": "native_speaker",
+    "tags": ["basic"],
+    "updated_at": "2025-12-12"
+  }
+}
